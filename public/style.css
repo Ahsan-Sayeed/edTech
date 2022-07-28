@@ -1,0 +1,41 @@
+/* buttons */
+    .sky-blue-btn{
+        background-color: #289BDE;
+        color:white;
+        font-weight: 600;
+    }
+    .sky-blue-btn-outline{
+        background-color:white;
+        color:#289BDE;
+        border:1px solid #289BDE;
+        font-weight: 600;
+    }
+/* Join & Registration */
+    .join-bg{
+        background-color: #289BDE;
+    }
+    .join-btn-bg{
+        background-color: white;
+        color:#289BDE;
+        font-weight: 600;
+    }
+/* Join & Registration end */
+
+/* footer start */
+    /* social media color */
+    .facebook{
+        color:#4267B2;
+        border:1px solid #4267B2;
+    }
+    .twitter{
+        color:#00acee;
+        border:1px solid #00acee;
+    }
+    .linkedin{
+        color:#0072b1;
+        border:1px solid #0072b1;
+    }
+    .tiktok{
+        border:1px solid #ff0050;
+    }
+/* footer end */
